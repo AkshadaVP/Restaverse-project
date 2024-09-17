@@ -1,0 +1,181 @@
+[{
+        "author_name": "Emily Johnson",
+        "profile_picture": "/api/placeholder/64/64",
+        "rating": 5,
+        "text": "Absolutely fantastic experience! The food was delicious and the service was impeccable.",
+        "date": "2024-09-10T18:30:00Z",
+        "reply": null,
+        "reply_date": null
+    },
+    {
+        "author_name": "Michael Chen",
+        "profile_picture": "/api/placeholder/64/64",
+        "rating": 4,
+        "text": "Great atmosphere and tasty food. The portions were a bit small for the price, but overall a good dining experience.",
+        "date": "2024-09-09T20:15:00Z",
+        "reply": null,
+        "reply_date": null
+    },
+    {
+        "author_name": "Sophia Rodriguez",
+        "profile_picture": "/api/placeholder/64/64",
+        "rating": 3,
+        "text": "The food was okay, but the service was slow. It took almost an hour to get our main course.",
+        "date": "2024-09-08T19:45:00Z",
+        "reply": null,
+        "reply_date": null
+    },
+    {
+        "author_name": "David Kim",
+        "profile_picture": "/api/placeholder/64/64",
+        "rating": 5,
+        "text": "One of the best dining experiences I've had in years! The flavors were incredible and the staff was attentive.",
+        "date": "2024-09-07T21:00:00Z",
+        "reply": null,
+        "reply_date": null
+    },
+    {
+        "author_name": "Laura Thompson",
+        "profile_picture": "/api/placeholder/64/64",
+        "rating": 2,
+        "text": "Disappointing visit. The food was bland and overpriced.",
+        "date": "2024-09-06T18:00:00Z",
+        "reply": null,
+        "reply_date": null
+    },
+    {
+        "author_name": "Alice Green",
+        "profile_picture": "/api/placeholder/64/64",
+        "rating": 4,
+        "text": "Enjoyed my meal, but the service could be faster.",
+        "date": "2024-09-15T20:00:00Z",
+        "reply": null,
+        "reply_date": null
+    },
+    {
+        "author_name": "Bob Smith",
+        "profile_picture": "/api/placeholder/64/64",
+        "rating": 5,
+        "text": "Fantastic experience! Will definitely come back.",
+        "date": "2024-09-14T18:00:00Z",
+        "reply": null,
+        "reply_date": null
+    },
+    {
+        "author_name": "Clara White",
+        "profile_picture": "/api/placeholder/64/64",
+        "rating": 3,
+        "text": "It was okay, but not outstanding.",
+        "date": "2024-09-13T17:00:00Z",
+        "reply": null,
+        "reply_date": null
+    },
+    {
+        "author_name": "Dan Brown",
+        "profile_picture": "/api/placeholder/64/64",
+        "rating": 2,
+        "text": "Not worth the price. Food was bland.",
+        "date": "2024-09-12T16:00:00Z",
+        "reply": null,
+        "reply_date": null
+    },
+    {
+        "author_name": "Ella Black",
+        "profile_picture": "/api/placeholder/64/64",
+        "rating": 4,
+        "text": "Great ambiance and tasty food. A bit pricey though.",
+        "date": "2024-09-11T15:00:00Z",
+        "reply": null,
+        "reply_date": null
+    },
+    {
+        "author_name": "Frank Grey",
+        "profile_picture": "/api/placeholder/64/64",
+        "rating": 5,
+        "text": "Exceptional service and delightful food. Highly recommended.",
+        "date": "2024-09-10T14:00:00Z",
+        "reply": null,
+        "reply_date": null
+    },
+    {
+        "author_name": "Grace Blue",
+        "profile_picture": "/api/placeholder/64/64",
+        "rating": 3,
+        "text": "Average experience. Expected more based on the reviews.",
+        "date": "2024-09-09T13:00:00Z",
+        "reply": null,
+        "reply_date": null
+    },
+    {
+        "author_name": "Henry Gold",
+        "profile_picture": "/api/placeholder/64/64",
+        "rating": 5,
+        "text": "Everything was perfect! Will be my go-to place.",
+        "date": "2024-09-08T12:00:00Z",
+        "reply": null,
+        "reply_date": null
+    },
+    {
+        "author_name": "Ivy Red",
+        "profile_picture": "/api/placeholder/64/64",
+        "rating": 2,
+        "text": "Service was slow and food was cold.",
+        "date": "2024-09-07T11:00:00Z",
+        "reply": null,
+        "reply_date": null
+    },
+    {
+        "author_name": "Jack Silver",
+        "profile_picture": "/api/placeholder/64/64",
+        "rating": 4,
+        "text": "Good food and decent service.",
+        "date": "2024-09-06T10:00:00Z",
+        "reply": null,
+        "reply_date": null
+    },
+    {
+        "author_name": "Kathy Orange",
+        "profile_picture": "/api/placeholder/64/64",
+        "rating": 3,
+        "text": "Not great, not terrible. Just average.",
+        "date": "2024-09-05T09:00:00Z",
+        "reply": null,
+        "reply_date": null
+    },
+    {
+        "author_name": "Liam Purple",
+        "profile_picture": "/api/placeholder/64/64",
+        "rating": 5,
+        "text": "Wonderful experience. Highly recommend the steak.",
+        "date": "2024-09-04T08:00:00Z",
+        "reply": null,
+        "reply_date": null
+    },
+    {
+        "author_name": "Mia Yellow",
+        "profile_picture": "/api/placeholder/64/64",
+        "rating": 4,
+        "text": "Nice place with good food, but a bit noisy.",
+        "date": "2024-09-03T07:00:00Z",
+        "reply": null,
+        "reply_date": null
+    },
+    {
+        "author_name": "Nina Teal",
+        "profile_picture": "/api/placeholder/64/64",
+        "rating": 5,
+        "text": "Amazing food and great atmosphere. Will return soon.",
+        "date": "2024-09-02T06:00:00Z",
+        "reply": null,
+        "reply_date": null
+    },
+    {
+        "author_name": "Oscar Indigo",
+        "profile_picture": "/api/placeholder/64/64",
+        "rating": 3,
+        "text": "Food was fine, but not worth the wait.",
+        "date": "2024-09-01T05:00:00Z",
+        "reply": null,
+        "reply_date": null
+    }
+]
