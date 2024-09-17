@@ -1,0 +1,119 @@
+    /* Review list styles with Glassmorphism */
+    
+    .review-list {
+        display: grid;
+        gap: 16px;
+        margin: 16px;
+    }
+    /* Card view (default) */
+    
+    .review-list.card-view {
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    }
+    /* Horizontal view */
+    
+    .review-list.horizontal-view {
+        grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+        gap: 16px;
+    }
+    /* Vertical view */
+    
+    .review-list.vertical-view {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+        justify-content: center;
+    }
+    /* Glassmorphism styles for review cards */
+    
+    .review-list .review-card {
+        backdrop-filter: blur(10px);
+        background: rgba(255, 255, 255, 0.2);
+        /* Semi-transparent glass effect */
+        border-radius: 16px;
+        padding: 20px;
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        border: 1px solid rgba(255, 255, 255, 0.3);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    
+    .review-list .review-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 40px rgba(0, 0, 0, 0.2);
+        /* More pronounced shadow on hover */
+    }
+    /* View switcher styles with Glassmorphism */
+    
+    .view-toggle {
+        display: flex;
+        justify-content: flex-start;
+        margin-bottom: 16px;
+        backdrop-filter: blur(10px);
+        background: #1c49ab;
+        /* Glass effect */
+        padding: 10px 20px;
+        border-radius: 16px;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        border: 1px solid rgba(255, 255, 255, 0.3);
+    }
+    /* Buttons in the view switcher */
+    
+    .view-toggle button {
+        margin-right: 8px;
+        padding: 8px 12px;
+        border: none;
+        background: #1c49ab;
+        /* Default color for buttons */
+        color: white;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: background-color 0.3s ease, box-shadow 0.3s ease;
+        box-shadow: 0 2px 10px rgba(5, 5, 5, 0.2);
+    }
+    
+    .view-toggle button.active {
+        background: #1c49ab;
+        /* Darker active state */
+        box-shadow: 0 4px 20px rgba(6, 6, 6, 0.3);
+    }
+    
+    .view-toggle button:hover {
+        background-color: rgba(0, 0, 0, 0.8);
+    }
+    /* Specific button colors */
+    
+    .view-toggle button:nth-of-type(1) {
+        /* Card View button */
+        background-color: rgba(0, 0, 0, 0.6);
+        /* Default color for Card View button */
+    }
+    
+    .view-toggle button:nth-of-type(2) {
+        /* Horizontal View button */
+        background-color: rgba(0, 0, 0, 0.8);
+        /* Black color for Horizontal View button */
+    }
+    
+    .view-toggle button:nth-of-type(3) {
+        /* Vertical View button */
+        background-color: rgba(0, 0, 0, 0.8);
+        /* Black color for Vertical View button */
+    }
+    
+    .toggle-viewer {
+        width: 100%;
+        display: flex;
+        justify-content: end;
+    }
+    
+    .review-list-container {
+        /* background-color: rgb(211, 241, 241); */
+        background-color: #e2e2e2;
+        /* background-color: #3e6bba; */
+        padding: 12px;
+        border-radius: 12px;
+    }
+    
+    .toggle-viewer>button {
+        background: #000000;
+    }
